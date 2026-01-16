@@ -1,0 +1,9 @@
+{
+  "name": "base-ui-best-practices",
+  "description": "Base UI is a collection of reusable components for building web applications. This skill should be used when writing, reviewing, or refactoring Base UI components to ensure optimal performance patterns. Triggers on tasks involving Base UI components, data fetching, bundle optimization, or performance improvements.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jellypod"
+  },
+  "repository": "https://github.com/Jellypod-Inc/claude-code"
+}
