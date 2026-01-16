@@ -1,5 +1,5 @@
-# Jellypod - Agent Skills
-This repo provides agent skills for building better web applications.
+# Jellypod - Agent Plugins
+This repo provides agent plugins (including skills) for building better web applications.
 
 ## Installation Guide (Claude Code)
 This repository includes a claude plugin marketplace, enabling you to easily install our skills into your repo.
